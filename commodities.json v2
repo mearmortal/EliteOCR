@@ -1,0 +1,704 @@
+{
+  "BERTRANDITE": {
+    "rus": "БЕРТРАНДИТ",
+    "fra": "BERTRANDITE",
+    "rare": "False",
+    "deu": "BERTRANDIT"
+  },
+  "BAUXITE": {
+    "rus": "БОКСИТ",
+    "fra": "BAUXITE",
+    "rare": "False",
+    "deu": "BAUXIT"
+  },
+  "ADVANCED CATALYSERS": {
+    "rus": "УСОВЕРШЕНСТВОВАННЫЕ",
+    "fra": "CATALYSEURS COMPLEXES",
+    "rare": "False",
+    "deu": "FORTSCHR. KATALYSATOREN"
+  },
+  "ROBOTICS": {
+    "rus": "РОБОТЫ",
+    "fra": "ROBOTS",
+    "rare": "False",
+    "deu": "ROBOTER"
+  },
+  "COBALT": {
+    "rus": "КОБАЛЬТ",
+    "fra": "COBALT",
+    "rare": "False",
+    "deu": "COBALT"
+  },
+  "TECHNICAL BLUEPRINTS": {
+    "rus": "ТЕХНИЧЕСКИЕ ЧЕРТЕЖИ",
+    "fra": "PLANS TECHNIQUES",
+    "rare": "false",
+    "deu": "TECHNISCHE PAUSEN"
+  },
+  "CLOTHING": {
+    "rus": "КОСМЕТИКА",
+    "fra": "MAQUILLAGE",
+    "rare": "False",
+    "deu": "KLEIDUNG"
+  },
+  "WATER PURIFIERS": {
+    "rus": "ВОДООЧИСТИТЕЛИ",
+    "fra": "PURIFICATEURS D'EAU",
+    "rare": "False",
+    "deu": "WASSERREINIGER"
+  },
+  "BASIC MEDICINES": {
+    "rus": "ОСНОВНЫЕ ЛЕКАРСТВА",
+    "fra": "MÉDICAMENTS SIMPLES",
+    "rare": "False",
+    "deu": "ALLGEMEINE MEDIKAMENTE"
+  },
+  "ALUMINIUM": {
+    "rus": "АЛЮМИНИЙ",
+    "fra": "ALUMINIUM",
+    "rare": "False",
+    "deu": "ALUMINIUM"
+  },
+  "AUTO-FABRICATORS": {
+    "rus": "АВТОСИНТЕЗАТОРЫ",
+    "fra": "DISPOSITIFS D'AUTOFABRICATION",
+    "rare": "False",
+    "deu": "FABRIKATOREN"
+  },
+  "REACTIVE ARMOUR": {
+    "rus": "РЕАКТИВНАЯ ЗАЩИТА",
+    "fra": "PROTECTION RÉACTIVE",
+    "rare": "False",
+    "deu": "REAKTIVRÜSTUNG"
+  },
+  "CHEMICAL WASTE": {
+    "rus": "РАДИОАКТИВНЫЕ МАТЕРИАЛЫ",
+    "fra": "MATÉRIAUX RADIOACTIFS",
+    "rare": "False",
+    "deu": "CHEMIEMÜLL"
+  },
+  "BIOWASTE": {
+    "rus": "БИООТХОДЫ",
+    "fra": "DÉCHETS ORGANIQUES",
+    "rare": "False",
+    "deu": "BIOMÜLL"
+  },
+  "SEMICONDUCTORS": {
+    "rus": "ПОЛУПРОВОДНИКИ",
+    "fra": "SEMI-CONDUCTEURS",
+    "rare": "False",
+    "deu": "HALBLEITER"
+  },
+  "RESONATING SEPARATORS": {
+    "rus": "РЕЗОНАНСНЫЕ СЕПАРАТОРЫ",
+    "fra": "SÉPARATEURS À RÉSONANCE",
+    "rare": "False",
+    "deu": "RESONANZABGRENZER"
+  },
+  "HYDROGEN FUEL": {
+    "rus": "ВОДОРОДНОЕ ТОПЛИВО",
+    "fra": "CARBURANT À BASE D'HYDROGÈNE",
+    "rare": "False",
+    "deu": "WASSERSTOFF-TREIBSTOFF"
+  },
+  "SURFACE STABILISERS": {
+    "rus": "ПОВЕРХНОСТНЫЕ СТАБИЛИЗАТОРЫ"
+	  "fra": "STABILISATEURS DE SURFACE",
+    "rare": "false",
+    "deu": "SURFACE STABILISATOREN"
+  },
+  "AGRI-MEDICINES": {
+    "rus": "ВЕТМЕДИКАМЕНТЫ",
+    "fra": "AGRI-MÉDICAMENTS",
+    "rare": "False",
+    "deu": "AGRAR-MEDIKAMENTE"
+  },
+  "CERAMIC COMPOSITES": {
+    "rus": "КЕРАМИЧЕСКИХ КОМПОЗИТОВ",	
+    "fra": "COMPOSITES CÉRAMIQUES",
+	  "rare": "false",
+    "deu": "KERAMISCHE VERBUNDWERKSTOFFE"
+  },
+  "EXPERIMENTAL CHEMICALS": {
+    "rus": "ЭКСПЕРИМЕНТАЛЬНЫЕ ХИМИЯ",
+    "fra": "PRODUITS CHIMIQUES EXPERIMENTAL",
+    "rare": "false",
+    "deu": "EXPERIMENTELLER CHEMICALS"
+  },
+  "NON-LETHAL WEAPONS": {
+    "rus": "НЕЛЕТАЛЬНОЕ ОРУЖИЕ",
+    "fra": "ARMES INCAPACITANTES",
+    "rare": "False",
+    "deu": "NICHTLETALE WAFFEN"
+  },
+  "AI RELICS": {
+    "rus": "AI РЕЛИКВИИ",
+    "fra": "RELIQUATS D'IA",
+    "rare": "False",
+    "deu": "KI-RELIKTE"
+  },
+  "SILVER": {
+    "rus": "СЕРЕБРО",
+    "fra": "ARGENT",
+    "rare": "False",
+    "deu": "SILBER"
+  },
+  "BERYLLIUM": {
+    "rus": "БЕРИЛЛИЙ",
+    "fra": "BÉRYLLIUM",
+    "rare": "False",
+    "deu": "BERYLLIUM"
+  },
+  "ANIMAL MONITORS": {
+    "rus": "МОНИТОРЫ ФАУНЫ",
+    "fra": "SYSTÈMES DE SURVEILLANCE",
+    "rare": "False",
+    "deu": "TIERÜBERWACHUNG"
+  },
+  "ANCIENT ARTIFACTS": {
+    "rus": "ДРЕВНИЕ АРТЕФАКТЫ",
+    "fra": "OBJETS ANCIENS",
+    "rare": "false",
+    "deu": "ANTIKE ARTEFAKTE"
+  },
+  "CRYOLITE": {
+    "rus": "КРИОЛИТ",
+	  "fra": "CRYOLITE",
+    "rare": "FALSE",
+    "deu": "KRYOLITH"
+  },
+  "GEOLOGICAL EQUIPMENT": {
+    "rus": "ГЕОЛОГИЧЕСКОЕ ОБОРУДОВАНИЕ",
+	  "fra": "ÉQUIPEMENT GÉOLOGIQUE",
+    "rare": "false",
+    "deu": "GEOLOGISCHE AUSRÜSTUNG"
+  },
+  "THERMAL COOLING UNITS": {
+    "rus": "ТЕПЛОВЫЕ ХОЛОДИЛЬНЫХ АГРЕГАТОВ",
+	  "fra": "UNITÉS DE REFROIDISSEMENT THERMIQUE",
+    "rare": "false",
+    "deu": "THERMAL KÜHLGERÄTE"
+  },
+  "SLAVES": {
+    "rus": "РАБЫ",
+    "fra": "ESCLAVES",
+    "rare": "False",
+    "deu": "SKLAVEN"
+  },
+  "INDITE": {
+    "rus": "ИНДИТ",
+    "fra": "INDITE",
+    "rare": "False",
+    "deu": "INDIT"
+  },
+  "PALLADIUM": {
+    "rus": "ПАЛЛАДИЙ",
+    "fra": "PALLADIUM",
+    "rare": "False",
+    "deu": "PALLADIUM"
+  },
+  "TOBACCO": {
+    "rus": "ТАБАК",
+    "fra": "TABAC",
+    "rare": "False",
+    "deu": "TABAK"
+  },
+  "LIQUOR": {
+    "rus": "СПИРТНОЕ",
+    "fra": "SPIRITUEUX",
+    "rare": "False",
+    "deu": "SPIRITUOSEN"
+  },
+  "URANIUM": {
+    "rus": "УРАН",
+    "fra": "URANIUM",
+    "rare": "False",
+    "deu": "URAN"
+  },
+  "FOOD CARTRIDGES": {
+    "rus": "ПИЩЕВЫЕ БРИКЕТЫ",
+    "fra": "CARTOUCHES ALIMENTAIRES",
+    "rare": "False",
+    "deu": "NAHRUNGSKARTUSCHEN"
+  },
+  "BATTLE WEAPONS": {
+    "rus": "ВОЕННОЕ ОРУЖИЕ",
+    "fra": "ARMES MILITAIRES",
+    "rare": "False",
+    "deu": "KRIEGSWAFFEN"
+  },
+  "GRAIN": {
+    "rus": "ЗЕРНО",
+    "fra": "CÉRÉALES",
+    "rare": "False",
+    "deu": "GETREIDE"
+  },
+  "REBEL TRANSMISSIONS": {
+    "rus": "REBEL ПЕРЕДАЧИ",
+    "fra": "TRANSMISSIONS REBELLES",
+    "rare": "false",
+    "deu": "REBEL TRANSMISSIONS"
+  },
+  "PLATINUM": {
+    "rus": "PLATINUM",
+    "fra": "PLATINE",
+    "rare": "False",
+    "deu": "PLATIN"
+  },
+  "MICROBIAL FURNACES": {
+    "rus": "Микробные печи",
+    "fra": "HAUTS FOURNEAUX MICROBIENS",
+    "rare": "False",
+    "deu": "MIKROBIELLE ÖFEN"
+  },
+  "TANTALUM": {
+    "rus": "ТАНТАЛ",
+    "fra": "TANTALE",
+    "rare": "False",
+    "deu": "TANTAL"
+  },
+  "NERVE AGENT": {
+    "rus": "НЕРВНО-ПАРАЛИТИЧЕСКОГО АГЕНТА",
+	  "fra": "AGENT NEUROTOXIQUE",
+    "rare": "FALSE",
+    "deu": "NERVENGIFT"
+  },
+  "COMPUTER COMPONENTS": {
+    "rus": "КОСТЮМЫ \"ОПАСНАЯ СРЕДА\"",
+    "fra": "COMBINAISONS HAZMAT",
+    "rare": "False",
+    "deu": "COMPUTERTEILE"
+  },
+  "BISMUTH": {
+    "rus": "ВИСМУТ",
+	  "fra": "BISMUTH",
+    "rare": "FALSE",
+    "deu": "WISMUT"
+  },
+  "STRUCTURAL REGULATORS": {
+    "rus": "СТРУКТУРНЫЕ РЕГУЛЯТОРЫ",
+	  "fra": "RÉGLEMENTATION DE STRUCTURE",
+    "rare": "FALSE",
+    "deu": "STRUKTUR REGLER"
+  },
+  "NARCOTICS": {
+    "rus": "НАРКОТИКИ",
+    "fra": "NARCOTIQUES",
+    "rare": "False",
+    "deu": "DROGEN"
+  },
+  "EVACUATION SHELTER": {
+    "rus": "ЭВАКУАЦИИ ЖИЛЬЕ",
+	  "fra": "ÉVACUATION ABRI",
+    "rare": "false",
+    "deu": "EVACUATION SHELTER"
+  },
+  "LITHIUM": {
+    "rus": "ЛИТИЙ",
+    "fra": "LITHIUM",
+    "rare": "False",
+    "deu": "LITHIUM"
+  },
+  "MINERAL EXTRACTORS": {
+    "rus": "ЭКСТРАКТОРЫ МИНЕРАЛОВ",
+    "fra": "EXTRACTEURS DE MINERAI",
+    "rare": "False",
+    "deu": "MINERALEXTRAKTOREN"
+  },
+  "DOMESTIC APPLIANCES": {
+    "rus": "СНАРЯЖЕНИЕ ДЛЯ ДОСУГА",
+    "fra": "ÉQUIPEMENT DE LOISIR",
+    "rare": "False",
+    "deu": "HAUSHALTSGERÄTE"
+  },
+  "LAND MINES": {
+    "rus": "МИНЫ",
+	  "fra": "LES MINES TERRESTRES",
+    "rare": "FALSE",
+    "deu": "LANDMINEN"
+  },
+  "GOSLARITE": {
+    "rus": "GOSLARITE",
+	  "fra": "GOSLARITE",
+    "rare": "FALSE",
+    "deu": "GOSLARITE"
+  },
+  "BEER": {
+    "rus": "ПИВО",
+    "fra": "BIÈRE",
+    "rare": "False",
+    "deu": "BIER"
+  },
+  "POWER GENERATORS": {
+    "rus": "ЭЛЕКТРОГЕНЕРАТОРЫ",
+    "fra": "GÉNÉRATEURS",
+    "rare": "False",
+    "deu": "STROMERZEUGER"
+  },
+  "FRUIT AND VEGETABLES": {
+    "rus": "ФРУКТЫ И ОВОЩИ",
+    "fra": "FRUITS ET LÉGUMES",
+    "rare": "False",
+    "deu": "OBST UND GEMÜSE"
+  },
+  "ALGAE": {
+    "rus": "ВОДОРОСЛИ",
+    "fra": "ALGUES",
+    "rare": "False",
+    "deu": "ALGEN"
+  },
+  "WINE": {
+    "rus": "ВИНО",
+    "fra": "VIN",
+    "rare": "False",
+    "deu": "WEIN"
+  },
+  "TRADE DATA": {
+    "rus": "ДАННЫЕ О ТОРГОВЛЕ",
+    "fra": "DONNÉES SUR LE COMMERCE",
+    "rare": "false",
+    "deu": "HANDELSDATEN"
+  },
+  "NATURAL FABRICS": {
+    "rus": "НАТУРАЛЬНАЯ ТКАНЬ",
+    "fra": "FIBRE TEXTILE NATURELLE",
+    "rare": "False",
+    "deu": "NATURFASERN"
+  },
+  "FISH": {
+    "rus": "РЫБА",
+    "fra": "POISSON",
+    "rare": "False",
+    "deu": "FISCH"
+  },
+  "EXPLOSIVES": {
+    "rus": "ВЗРЫВЧАТКА",
+    "fra": "EXPLOSIFS",
+    "rare": "False",
+    "deu": "SPRENGSTOFFE"
+  },
+  "MOISSANITE": {
+    "rus": "МУАССАНИТ",
+	  "fra": "MOISSANITE",
+    "rare": "FALSE",
+    "deu": "MOISSANITE"
+  },
+  "PROGENITOR CELLS": {
+    "rus": "КЛЕТКИ-ПРЕДШЕСТВЕННИКИ",
+    "fra": "CELLULES SOUCHES",
+    "rare": "False",
+    "deu": "VORLÄUFERZELLEN"
+  },
+  "THALLIUM": {
+    "rus": "ТАЛЛИЙ",
+	  "fra": "THALLIUM",
+    "rare": "FALSE",
+    "deu": "THALLIUM"
+  },
+  "TEA": {
+    "rus": "ЧАЙ",
+    "fra": "THÉ",
+    "rare": "False",
+    "deu": "TEE"
+  },
+  "THORIUM": {
+    "rus": "ТОРИЯ",
+	  "fra": "THORIUM",
+    "rare": "FALSE",
+    "deu": "THORIUM"
+  },
+  "SAP 8 CORE CONTAINER": {
+    "rus": "SAP 8 CORE CONTAINER",
+    "fra": "SAP 8 CORE CONTAINER",
+    "rare": "False",
+    "deu": "CONTAINER MIT SAP 8-KERN"
+  },
+  "PESTICIDES": {
+    "rus": "ПЕСТИЦИДЫ",
+    "fra": "PESTICIDES",
+    "rare": "False",
+    "deu": "PESTIZIDE"
+  },
+  "URANINITE": {
+    "rus": "УРАНИНИТ",
+    "fra": "URANINITE",
+    "rare": "False",
+    "deu": "URANINIT"
+  },
+  "SKIMMER COMPONENTS": {
+    "rus": "SKIMMER КОМПОНЕНТЫ",
+	  "fra": "ÉCUMOIRE COMPOSANTS",
+    "rare": "false",
+    "deu": "SKIMMER COMPONENTS"
+  },
+  "PERSONAL WEAPONS": {
+    "rus": "ЛИЧНОЕ ОРУЖИЕ",
+    "fra": "ARMES DE POING",
+    "rare": "False",
+    "deu": "PERSÖNLICHE WAFFEN"
+  },
+  "COLTAN": {
+    "rus": "КОЛТАН",
+    "fra": "COLTAN",
+    "rare": "False",
+    "deu": "COLTAN"
+  },
+  "MUON IMAGER": {
+    "rus": "МЮОН IMAGER",
+	  "fra": "MUON IMAGEUR",
+    "rare": "false",
+    "deu": "MUON IMAGER"
+  },
+  "LEPIDOLITE": {
+    "rus": "ЛЕПИДОЛИТ",
+    "fra": "LÉPIDOLITE",
+    "rare": "False",
+    "deu": "LEPIDOLITH"
+  },
+  "TITANIUM": {
+    "rus": "ТИТАН",
+    "fra": "TITANE",
+    "rare": "False",
+    "deu": "TITAN"
+  },
+  "HATCH BREAKER DRONE": {
+    "rus": "ЛЮК ВЫКЛЮЧАТЕЛЬ DRONE",
+    "fra": "HATCH BREAKER DRONE",
+    "rare": "false",
+    "deu": "HATCH BREAKER DRONE"
+  },
+  "PYROPHYLLITE": {
+    "rus": "ПИРОФИЛЛИТОВУЮ",
+	  "fra": "PYROPHYLLITE",
+    "rare": "FALSE",
+    "deu": "PYROPHYLLIT"
+  },
+  "BOOTLEG LIQUOR": {
+    "rus": "BOOTLEG ЛИКЕР",
+	  "fra": "BOOTLEG LIQUOR",
+    "rare": "FALSE",
+    "deu": "BOOTLEG ALKOHOL"
+  },
+  "CONSUMER TECHNOLOGY": {
+    "rus": "ОДЕЖДА",
+    "fra": "VÊTEMENTS",
+    "rare": "False",
+    "deu": "UNTERHALTUNGSELEKTRONIK"
+  },
+  "SYNTHETIC REAGENTS": {
+    "rus": "СИНТЕТИЧЕСКИЕ РЕАГЕНТЫ",
+	  "fra": "REACTIFS DE SYNTHESE",
+    "rare": "FALSE",
+    "deu": "SYNTHESEREAGENTIEN"
+  },
+  "ANIMAL MEAT": {
+    "rus": "ЖИВОТНОЕ МЯСО",
+    "fra": "VIANDE",
+    "rare": "False",
+    "deu": "TIERFLEISCH"
+  },
+  "RUTILE": {
+    "rus": "РУТИЛ",
+    "fra": "RUTILE",
+    "rare": "False",
+    "deu": "RUTIL"
+  },
+  "COMBAT STABILISERS": {
+    "rus": "БОЕВЫЕ СТАБИЛИЗАТОРЫ",
+    "fra": "STABILISATEURS DE COMBAT",
+    "rare": "False",
+    "deu": "KAMPFSTABILISATOREN"
+  },
+  "INDIUM": {
+    "rus": "ИНДИЙ",
+    "fra": "INDIUM",
+    "rare": "False",
+    "deu": "INDIUM"
+  },
+  "IMPERIAL SLAVES": {
+    "rus": "Имперские рабы",
+    "fra": "ESCLAVES IMPÉRIAUX",
+    "rare": "False",
+    "deu": "IMPERIALE SKLAVEN"
+  },
+  "SYNTHETIC MEAT": {
+    "rus": "СИНТЕТИЧЕСКОЕ МЯСО",
+    "fra": "VIANDE SYNTHÉTIQUE",
+    "rare": "False",
+    "deu": "KÜNSTLICHES FLEISCH"
+  },
+  "PAINITE": {
+    "rus": "Пейнит",
+    "fra": "PAINITE",
+    "rare": "False",
+    "deu": "PAINIT"
+  },
+  "OSMIUM": {
+    "rus": "ОСМИЙ",
+    "fra": "OSMIUM",
+    "rare": "False",
+    "deu": "OSMIUM"
+  },
+  "PERFORMANCE ENHANCERS": {
+    "rus": "ФАСИЛИТАТОРЫ",
+    "fra": "PRODUITS DOPANTS",
+    "rare": "False",
+    "deu": "LEISTUNGSSTEIGERER"
+  },
+  "H.E. SUITS": {
+    "rus": "ЗАЩИТНЫЕ КОСТЮМЫ",
+    "fra": "COMBINAISONS DE PROTECTION",
+    "rare": "False",
+    "deu": "SCHUTZANZÜGE"
+  },
+  "CROP HARVESTERS": {
+    "rus": "УБОРОЧНЫЙ КОМБАЙН",
+    "fra": "MOISSONNEUSES",
+    "rare": "False",
+    "deu": "ERNTEMASCHINEN"
+  },
+  "MARINE EQUIPMENT": {
+    "rus": "МОРСКОЕ ОБОРУДОВАНИЕ",
+    "fra": "ÉQUIPEMENT AQUAMARIN",
+    "rare": "False",
+    "deu": "MARITIMAUSSTATTUNG"
+  },
+  "COFFEE": {
+    "rus": "КОФЕ",
+    "fra": "CAFÉ",
+    "rare": "False",
+    "deu": "KAFFEE"
+  },
+  "PROTOTYPE TECH": {
+    "rus": "ПРОТОТИП TECH",
+    "fra": "PROTOTYPE TECH",
+    "rare": "false",
+    "deu": "PROTOTYPE TECH"
+  },
+  "GOLD": {
+    "rus": "ЗОЛОТО",
+    "fra": "OR",
+    "rare": "False",
+    "deu": "GOLD"
+  },
+  "LANTHANUM": {
+    "rus": "ЛАНТАН",
+	  "fra": "LANTHANE",
+    "rare": "FALSE",
+    "deu": "LANTHAN"
+  },
+  "GALLITE": {
+    "rus": "ГАЛЛИТ",
+    "fra": "GALLITE",
+    "rare": "False",
+    "deu": "GALLIT"
+  },
+  "ATMOSPHERIC PROCESSORS": {
+    "rus": "АТМОСФЕРНЫЙ ПРОЦЕССОР",
+    "fra": "PROCESSEURS ATMOSPHÉRIQUES",
+    "rare": "False",
+    "deu": "ATMOSPHÄRENPROZESSOREN"
+  },
+  "BIOREDUCING LICHEN": {
+    "rus": "ЛИШАЙНИК-БИОРЕДУКТОР",
+    "fra": "LICHEN BIORÉDUCTEUR",
+    "rare": "False",
+    "deu": "BIOREDUZIERENDE FLECHTEN"
+  },
+  "MILITARY PLANS": {
+    "rus": "ВОЕННЫЕ ПЛАНЫ",
+    "fra": "PLANS MILITAIRES",
+    "rare": "false",
+    "deu": "MILITÄRISCHEN PLÄNE"
+  },
+  "POLYMERS": {
+    "rus": "ПОЛИМЕРЫ",
+    "fra": "POLYMÈRES",
+    "rare": "False",
+    "deu": "POLYMERE"
+  },
+  "BLACK BOX": {
+    "rus": "ЧЕРНЫЙ ЯЩИК",
+    "fra": "BOÎTE NOIRE",
+    "rare": "false",
+    "deu": "FLUGSCHREIBER"
+  },
+  "META-ALLOYS": {
+    "rus": "META- СПЛАВЫ",
+	  "fra": "META-ALLIAGES",
+    "rare": "false",
+    "deu": "META-LEGIERUNGEN"
+  },
+  "SUPERCONDUCTORS": {
+    "rus": "СВЕРХПРОВОДНИКИ",
+    "fra": "SUPRACONDUCTEURS",
+    "rare": "False",
+    "deu": "SUPRALEITER"
+  },
+  "ANTIQUITIES": {
+    "rus": "АНТИКВАРИАТА",
+    "fra": "ANTIQUITÉS",
+    "rare": "False",
+    "deu": "ANTIQUITÄTEN"
+  },
+  "MINERAL OIL": {
+    "rus": "ЧАЙ",
+    "fra": "HUILE MINÉRALE",
+    "rare": "False",
+    "deu": "MINERALÖL"
+  },
+  "COPPER": {
+    "rus": "МЕДЬ",
+    "fra": "CUIVRE",
+    "rare": "False",
+    "deu": "KUPFER"
+  },
+  "SYNTHETIC FABRICS": {
+    "rus": "СИНТЕТИЧЕСКАЯ ТКАНЬ",
+    "fra": "TISSU SYNTHÉTIQUE",
+    "rare": "False",
+    "deu": "CHEMIEFASERN"
+  },
+  "BUILDING FABRICATORS": {
+    "rus": "СТРОИТЕЛЬНЫЕ ПРОИЗВОДИТЕЛИ",
+	  "fra": "FABRICANT DE CONSTRUCTION",
+    "rare": "false",
+    "deu": "BUILDING FABRICATORS"
+  },
+  "LEATHER": {
+    "rus": "КОЖА",
+    "fra": "CUIR",
+    "rare": "False",
+    "deu": "LEDER"
+  },
+  "SCRAP": {
+    "rus": "УТИЛЬСЫРЬЕ",
+    "fra": "FERRAILLE",
+    "rare": "False",
+    "deu": "SCHROTT"
+  },
+  "GALLIUM": {
+    "rus": "ГАЛЛИЙ",
+    "fra": "GALLIUM",
+    "rare": "False",
+    "deu": "GALLIUM"
+  },
+  "AQUAPONIC SYSTEMS": {
+    "rus": "АКВАПОННЫЕ СИСТЕМЫ",
+    "fra": "SYSTÈMES AQUAPONIQUES",
+    "rare": "False",
+    "deu": "AQUAPONIKSYSTEME"
+  },
+  "LAND ENRICHMENT SYSTEMS": {
+    "rus": "СИСТЕМЫ ОБОГАЩЕНИЯ ПОЧВЫ",
+    "fra": "SYSTÈMES D'ENRICHISSEMENT DES",
+    "rare": "False",
+    "deu": "LANDANREICHERUNGSSYSTEME"
+  },
+  "RARE ARTWORK": {
+    "rus": "РЕДКИЕ ПРОИЗВЕДЕНИЯ ИСКУССТВА",
+    "fra": "ILLUSTRATION RARE",
+    "rare": "false",
+    "deu": "RARE GRAFIK"
+  }
+}
